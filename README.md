@@ -1,14 +1,16 @@
 # 100 trucos para hacer mejores presentaciones
 
-Hola, soy Javi Moreno.
+Hola, soy Javi Moreno. 
 
-La lista de consejos que tienes en este documento en realidad está más cerca de los 200 que de los 100 y espero que encuentres cada uno de ellos interesante. 
+Solía programar hace un tiempo, pero ahora me dedico a dar cursos y a la consultoría de cloud público y Kubernetes. Durante años he ido dando charlas en distintos sitios, aprendiendo de forma totalmente asilvestrada. Hasta que llegó un momento en el que me enteré de que hay gente que se dedica a esto profesionalmente desde hace mucho tiempo, y que saben tanto del tema que olvidan más en una mala borrachera de lo que yo llegaré a conocer jamás. Desde entonces voy apuntando en libretas ideas tanto propias como extraídas de libros, vídeos, etc. y he pensado que quizá pueda ser útil para ti también. Ya sabes, para ahorrarte los fallos que he cometido y que de esa manera tengas más tiempo para cometer los tuyos propios. 
 
-Si vas a participar en un evento, meetup o similar y te apetece que cuente con más detalle las ideas generales que lees aquí, dímelo. Y recuerda que si tienes dudas puedes contactar conmigo por los medios habituales:
+La lista de consejos que tienes en este documento en realidad está más cerca de los 200 que de los 100 y espero que encuentres cada uno de ellos interesante. Y si vas a participar en un evento, meetup o similar y quieres que te eche un cable preparando la charla, dímelo. Puedes contactar conmigo por los medios habituales:
 
 * email en javier-moreno punto com
 * [twitter.com/ciberado](https://twitter.com/ciberado)
 * [linkedin.com/in/javier-more](https://linkedin.com/in/javier-more)
+
+pd: Sí, sí, también tengo una lista de *trucos para dar charlas a través de la webcam*. Si te parece interesante leerla coméntamelo y quizá así me anime a publicarla.
 
 ## ¿Por qué quieres presentar?
 
