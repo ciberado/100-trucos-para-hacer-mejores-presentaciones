@@ -7,8 +7,8 @@ La lista de consejos que tienes en este documento en realidad está más cerca d
 Si vas a participar en un evento, meetup o similar y te apetece que cuente con más detalle las ideas generales que lees aquí, dímelo. Y recuerda que si tienes dudas puedes contactar conmigo por los medios habituales:
 
 * email en javier-moreno punto com
-* [twitter.com/ciberado]
-* [linkedin.com/in/javier-more]
+* [twitter.com/ciberado](https://twitter.com/ciberado)
+* [linkedin.com/in/javier-more](https://linkedin.com/in/javier-more)
 
 ## ¿Por qué quieres presentar?
 
@@ -207,7 +207,7 @@ Si vas a participar en un evento, meetup o similar y te apetece que cuente con m
 
 ## Good readings
 
-Recuerda que hay muchas maneras de conseguir un libro, como por ejemplo encargarlo en la librería de tu barrio, pedirlo en tu biblioteca local o buscándolo en [www.todostuslibros.com] :)
+Recuerda que hay muchas maneras de conseguir un libro, como por ejemplo encargarlo en la librería de tu barrio, pedirlo en tu biblioteca local o buscándolo en [todostuslibros.com](https://www.todostuslibros.com) :)
 
 **Presentaciones Inteligentes** (**100 Things Every Presenter Needs to Know About People**), de Susan M. Weinschenk es maravilloso. Súper conciso y lleno de buenas ideas. Incluso cuando explica algo obvio lo hace con una claridad que ayuda a mejorar.
 
