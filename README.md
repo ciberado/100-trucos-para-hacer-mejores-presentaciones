@@ -207,11 +207,11 @@ Si vas a participar en un evento, meetup o similar y te apetece que cuente con m
 
 ## Good readings
 
-Recuerda que hay muchas maneras de conseguir un libro, como por ejemplo encargarlo en la librería de tu barrio, pedirlo en tu biblioteca local o buscándolo en https://www.todostuslibros.com :)
+Recuerda que hay muchas maneras de conseguir un libro, como por ejemplo encargarlo en la librería de tu barrio, pedirlo en tu biblioteca local o buscándolo en www.todostuslibros.com :)
 
 **Presentaciones Inteligentes** (**100 Things Every Presenter Needs to Know About People**), de Susan M. Weinschenk es maravilloso. Súper conciso y lleno de buenas ideas. Incluso cuando explica algo obvio lo hace con una claridad que ayuda a mejorar.
 
-Cualquier cosa de Garr Reynolds, incluyendo “Presentation tips” y obviamente su celebérrimo **Presentation Zen**. Su [blog](https://www.garrreynolds.com/blog) y cualquier vídeo suyo en  Youtube son recursos casi imprescindibles.
+Cualquier cosa de Garr Reynolds obviamente su celebérrimo **Presentation Zen**. Su [blog](https://www.garrreynolds.com/blog) y cualquier vídeo suyo en Youtube son recursos casi imprescindibles.
 
 **Slide:ology** y **Resonate** de [Nancy Duarte](https://www.duarte.com/resources/#books) son excelentes y además se leen casi de un tirón. Revisa sus presentaciones en Youtube, te van a encantar.
 
@@ -221,4 +221,4 @@ El blog y el podcast **[Presentástico](https://presentastico.com/)** de Carles 
 
 **[Lessons W. Eugene Smith Has Taught Me About Street Photography](https://art-sheep.com/7-lessons-w-eugene-smith-has-taught-us-about-street-photography/)** es un recorrido rápido pero excelente sobre la forma de trabajar de este artista y una forma hermosa de mejorar en técnicas de composición.
 
-**Speaking.io** dispone de una barbaridad de artículos sobre casi cualquier tema relacionado con presentar contenido.
+**[Speaking.io](https://speaking.io)** dispone de una barbaridad de artículos sobre casi cualquier tema relacionado con presentar contenido.
